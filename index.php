@@ -20,13 +20,13 @@
 			    */
 
 			    echo "Hello World!<br/>";
-          
+
           $first_name = 41;
           $last_name = 4;
           echo $first_name . " " . $last_name . "<BR/>";
           $favourite_number = 41;
 
-          echo 40 + 4;
+          echo 40 + 5;
           $num1=40;
           $num2=4;
           echo $num1-- ;
@@ -36,7 +36,7 @@
           $num2=40;
           var_dump($num1<=$num2);
 
-                    
+
 		    ?>
 
 
